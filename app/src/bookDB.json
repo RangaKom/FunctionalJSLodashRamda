@@ -1,0 +1,39 @@
+[
+  {
+    "id" : "978-0641723445",
+    "name" : "The Lightning Thief",
+    "author" : "Rick Riordan",
+    "series_t" : "Percy Jackson and the Olympians",
+    "path":"TLT.jpg",
+    "sequence_i" : 1,
+    "price" : 12.50
+  }
+,
+  {
+    "id" : "978-1423103349",
+    "name" : "The Sea of Monsters",
+    "author" : "Rick Riordan",
+    "series_t" : "Percy Jackson and the Olympians",
+    "path":"TSM.jpg",
+    "sequence_i" : 2,
+    "price" : 6.49
+  }
+,
+  {
+    "id" : "978-1857995879",
+    "name" : "Sophie's World : The Greek Philosophers",
+    "author" : "Jostein Gaarder",
+    "path":"TGP.jpg",
+    "sequence_i" : 1,
+    "price" : 3.07
+  }
+,
+  {
+    "id" : "978-1933988177",
+    "name" : "Lucene in Action, Second Edition",
+    "author" : "Michael McCandless",
+    "path":"LIA.jpg",
+    "sequence_i" : 1,
+    "price" : 30.50
+  }
+]
