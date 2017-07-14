@@ -1,0 +1,20 @@
+{
+  "name": "javascript-ramda-lodash-functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "binDebug",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "ramda": "^0.21.0",
+    "ramda-fantasy": "^0.5.0"
+  },
+  "devDependencies": {
+    "live-server": "^1.0.0",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
